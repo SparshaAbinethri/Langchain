@@ -1,0 +1,8 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+bs4 # Beautiful Soup for web scraping
+langchain-openai
+faiss-cpu
